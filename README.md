@@ -70,7 +70,7 @@ python3 decameron.py "recording.wav" --pdf
 python3 decameron.py "audio1.m4a" "audio2.m4a" --model medium
 ```
 
-_Tip: always quote file names that contain spaces or brackets, e.g. `"[TWP] [FTM] - random quote.m4a"`._
+_Tip: always quote file names that contain spaces or brackets, e.g. `"[Info] [Título] - random quote.m4a"`._
 
 ### Where files go
 
@@ -172,7 +172,7 @@ python3 decameron.py "grabacion.wav" --pdf
 python3 decameron.py "audio1.m4a" "audio2.m4a" --model medium
 ```
 
-_Consejo: pon siempre entre comillas los nombres de archivo con espacios o corchetes, por ejemplo `"[TWP] [FTM] - random quote.m4a"`._
+_Consejo: pon siempre entre comillas los nombres de archivo con espacios o corchetes, por ejemplo `"[Info] [Título] - random quote.m4a"`._
 
 ### Dónde se guardan los archivos
 
